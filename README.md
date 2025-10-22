@@ -22,6 +22,7 @@
 ## Environments
 - Preview: https://main--WKND_EDS_SA--adobeyuta.aem.page/
 - Live: https://main--WKND_EDS_SA--adobeyuta.aem.live/
+- AEMCS Prod Only
 
 ## Documentation
 [Ref Demo 2.0](https://adobe.com/go/refdemo) 
