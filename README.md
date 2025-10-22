@@ -20,9 +20,8 @@
   - Template contains placeholder blocks with various styling options
 
 ## Environments
-- Preview: https://main--WKND_EDS_SA--adobeyuta.aem.page/
-- Live: https://main--WKND_EDS_SA--adobeyuta.aem.live/
-- AEMCS Prod Only
+- Preview: https://main--WKNDEDSSA--adobeyuta.aem.page/
+- Live: https://main--WKNDEDSSA--adobeyuta.aem.live/
 
 ## Documentation
 [Ref Demo 2.0](https://adobe.com/go/refdemo) 
